@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Tractor",
+      "category": "equipments",
+      "image": "https://i.postimg.cc/jdnK21Pm/tractor01.jpg",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Weed Plucker",
+      "category": "equipments",
+      "image": "https://i.postimg.cc/Y9n2vm18/weed-Remover01.jpg",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Sprayer",
+      "category": "equipments",
+      "image": "https://i.postimg.cc/Gm0Ryjj2/sprayer01.jpg",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Wheat seeds",
+      "category": "seeds",
+      "image": "https://i.postimg.cc/Xr7mnX6Z/wheat02.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Rice seeds",
+      "category": "seeds",
+      "image": "https://i.postimg.cc/PqTk6r9n/rice01.png",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Groundnut seeds",
+      "category": "seeds",
+      "image": "https://i.postimg.cc/pXf6ZgmC/groundnut01.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "FertiZol ",
+      "category": "fertilizers",
+      "image": "https://i.postimg.cc/brWhL0cm/fertilizer01.jpg",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "PestiControl",
+      "category": "fertilizers",
+      "image": "https://i.postimg.cc/8C4gxggJ/pesticide01.jpg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "FertiSpray",
+      "category": "fertilizers",
+      "image": "https://i.postimg.cc/PxFsrbxd/fertilizer02.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}

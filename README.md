@@ -31,27 +31,26 @@ cd FarMarket
 ## 🛠️ Setting Up the Project
 
 ### 2️⃣ Install Dependencies
-bash
+```bash
 npm install
+```
 
 ### 3️⃣ Run Tests
 ```bash
 npx hardhat test
-
+```
 ### 4️⃣ Start Local Hardhat Node
-bash
-Copy code
+```bash
 npx hardhat node
-
+```
 ### 5️⃣ Deploy Smart Contracts
 Open a new terminal and run:
 
-bash
-Copy code
+```bash
 npx hardhat run ./scripts/deploy.js --network localhost
-
+```
 ### 6️⃣ Start Frontend
-bash
-Copy code
+```bash
 npm run start
+```
 The frontend should now be running on: http://localhost:3000

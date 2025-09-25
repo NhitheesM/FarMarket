@@ -35,8 +35,7 @@ bash
 npm install
 
 ### 3️⃣ Run Tests
-bash
-Copy code
+```bash
 npx hardhat test
 
 ### 4️⃣ Start Local Hardhat Node

@@ -39,17 +39,19 @@ bash
 Copy code
 npx hardhat test
 
-4️⃣ Start Local Hardhat Node
+### 4️⃣ Start Local Hardhat Node
 bash
 Copy code
 npx hardhat node
-5️⃣ Deploy Smart Contracts
+
+### 5️⃣ Deploy Smart Contracts
 Open a new terminal and run:
 
 bash
 Copy code
 npx hardhat run ./scripts/deploy.js --network localhost
-6️⃣ Start Frontend
+
+### 6️⃣ Start Frontend
 bash
 Copy code
 npm run start
